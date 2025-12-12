@@ -32,7 +32,7 @@ beginner to AI practitioner.
 
 -   Repositories, commits, push/pull
 -   GitHub workflow
--   Good Starting Poin is https://docs.github.com/en/get-started/start-your-journey/hello-world
+-   Good Starting Point is https://docs.github.com/en/get-started/start-your-journey/hello-world
 
 ### 🐍 Phase 1: Python Foundations
 

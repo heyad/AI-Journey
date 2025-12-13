@@ -14,7 +14,7 @@ beginner to AI practitioner.
 1.  Follow the roadmap in order\
 2.  Learn → Practice → Push your work to GitHub\
 3.  Update this repo as you progress\
-4.  Don't list your skills, **Show** it
+4.  Don't list your skills, you better **Show** it
 
 ------------------------------------------------------------------------
 

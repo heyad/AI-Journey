@@ -10,12 +10,18 @@ GitHub is your collaborative workspace and professional portfolio. It allows you
 
 The first thing you need when starting to code in Python is an IDE (Integrated Development Environment). An IDE is a tool that helps you write, run, debug, and organize your code more efficiently than a simple text editor. There are many IDEs available for Python development. Below are three of the most common and beginner-friendly options, along with why you might choose each one and how to get started.
 
-1. Visual Studio Code (VS Code): Visual Studio Code is a lightweight, free, and extremely popular code editor that becomes a powerful Python IDE through extensions. Download from the official website: https://code.visualstudio.com
+#### Visual Studio Code (VS Code) 
+
+Visual Studio Code is a lightweight, free, and extremely popular code editor that becomes a powerful Python IDE through extensions. Download from the official website: https://code.visualstudio.com
 
 
-2. Jupyter Notebook: Best for Learning & Experimentation. Jupyter Notebook is an interactive environment where you write and run Python code in small blocks (cells), alongside explanations, equations, and visualizations. Install via Anaconda, which includes Python, Jupyter, and many useful libraries https://www.anaconda.com  Or install directly using pip: `pip install notebook`
+#### Jupyter Notebook
 
-3. Google Colab, one of the most common IDE for beginners: 
+Best for Learning & Experimentation. Jupyter Notebook is an interactive environment where you write and run Python code in small blocks (cells), alongside explanations, equations, and visualizations. Install via Anaconda, which includes Python, Jupyter, and many useful libraries https://www.anaconda.com  Or install directly using pip: `pip install notebook`
+
+#### Google Colab
+
+One of the most common IDE for beginners: 
 
 ✅ No setup or installation needed
 
@@ -31,13 +37,13 @@ For beginners, this removes one of the biggest barriers to learning: environment
 
 **How to Get Started**
 
-Go to: https://colab.research.google.com
+-   Go to: https://colab.research.google.com
 
-Sign in with a Google account
+-   Sign in with a Google account
 
-Click New Notebook
+-   Click New Notebook
 
-Start writing Python code immediately
+-   Start writing Python code immediately
 
 ### Python Foundations
 

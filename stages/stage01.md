@@ -194,7 +194,7 @@ print(content)
 file.close()
 ```
 
-**Reading/ Writing `with` 
+**Reading/ Writing `with`**
 ```python
 with open("example.txt", "a") as file:
     file.write("Appending a new line.\n")

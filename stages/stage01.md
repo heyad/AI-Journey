@@ -56,31 +56,7 @@ For beginners, this removes one of the biggest barriers to learning: environment
 
 ### Python Foundations
 
--   Python Comments: Comments are notes in your code that Python ignores. They help explain what your code does.
-
-```python
-# This is a single-line comment
-
-"""
-This is a 
-multi-line comment
-or docstring.
-"""
-
--   Python basics (data types)
-
-
-| Data Type | Example                        | Description        |
-| --------- | ------------------------------ | ------------------ |
-| int       | `age = 25`                     | Integer numbers    |
-| float     | `height = 1.75`                | Decimal numbers    |
-| str       | `name = "Alice"`               | Text               |
-| bool      | `is_student = True`            | True or False      |
-| list      | `fruits = ["apple", "banana"]` | Ordered collection |
-| dict      | `person = {"name": "Alice"}`   | Key-value pairs    |
-
-
-
+-   Python basics (comments, data types, etc...)
 -   Functions, modules
 -   File handling
 

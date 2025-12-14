@@ -172,7 +172,7 @@ Python makes it easy to work with files. You can **read**, **write**, and **appe
 ##### Opening a File
 
 ```python 
-Use `open(filename, mode)` to open a file. Common modes:
+Use `open(filename, mode)` to open a file```. Common modes:
 
 | Mode | Description                     |
 |------|---------------------------------|

@@ -208,7 +208,9 @@ with open("example.txt", "r") as file:
 
 -   Repositories, commits, push/pull
 -   GitHub workflow
--   Good Starting Point is https://docs.github.com/en/get-started/start-your-journey/hello-world
+-   Good Starting Point is [Github Docs](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+
+
 
 
 [Back to AI Journey](../README.md)

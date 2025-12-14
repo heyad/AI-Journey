@@ -82,6 +82,20 @@ or docstring.
 | dict      | `person = {"name": "Alice"}`   | Key-value pairs    |
 
 
+#### 3. Basic Operations 
+
+| Operation      | Symbol | Example   | Output |
+| -------------- | ------ | --------- | ------ |
+| Addition       | `+`    | `2 + 3`   | 5      |
+| Subtraction    | `-`    | `5 - 2`   | 3      |
+| Multiplication | `*`    | `4 * 3`   | 12     |
+| Division       | `/`    | `10 / 3`  | 3.333… |
+| Floor division | `//`   | `10 // 3` | 3      |
+| Modulus        | `%`    | `10 % 3`  | 1      |
+| Exponent       | `**`   | `2 ** 3`  | 8      |
+
+
+
 -   Functions, modules
 -   File handling
 

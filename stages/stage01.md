@@ -56,7 +56,6 @@ For beginners, this removes one of the biggest barriers to learning: environment
 
 ### Python Foundations
 
--   Python basics (comments, data types, etc...)
 
 
 #### 1. Comments: Comments are notes in your code that Python ignores. They help explain what your code does.
@@ -146,9 +145,8 @@ while count < 5:
 
 
 
--   Functions, modules
 
-#### 1. Functions 
+#### 9. Functions 
 
 ```python 
 def greet(name):
@@ -157,7 +155,7 @@ def greet(name):
 print(greet("Alice"))  # Output: Hello, Alice!
 ```
 
-#### 2. Importing Modules 
+#### 10. Importing Modules 
 
 ```python 
 import math
@@ -165,7 +163,7 @@ import math
 print(math.sqrt(16))  # Output: 4.0
 ```
 
--   File handling
+#### 10. Files Handling 
 
 Python makes it easy to work with files. You can **read**, **write**, and **append** files using built-in functions.
 

@@ -38,49 +38,18 @@ There will be moments of confusion and frustration,  this is normal and expected
 
 ## 🗂 Roadmap Overview
 
-### ✅ Phase 0: Git & GitHub Basics
+# AI Journey 🚀
 
--   Repositories, commits, push/pull
--   GitHub workflow
--   Good Starting Point is https://docs.github.com/en/get-started/start-your-journey/hello-world
+A structured learning path to go from beginner to applied AI practitioner.
 
-### 🐍 Phase 1: Python Foundations
+## 📚 Learning Stages
 
--   Python basics
--   Functions, modules
--   File handling
+1. [Stage 1 – Foundations of AI](stages/stage-1-foundations.md)
+2. [Stage 2 – Python for AI](stages/stage-2-python.md)
+3. [Stage 3 – Machine Learning](stages/stage-3-ml.md)
+4. [Stage 4 – Deep Learning](stages/stage-4-deep-learning.md)
+5. [Stage 5 – Deployment & MLOps](stages/stage-5-deployment.md)
 
-### 📐 Phase 2: Math for AI
-
--   Linear algebra
--   Probability & statistics
-
-### 📊 Phase 3: Machine Learning
-
--   Supervised & unsupervised learning
--   Scikit-learn
-
-### 🧠 Phase 4: Deep Learning
-
--   Neural networks
--   PyTorch / TensorFlow
-
-### 🚀 Phase 5: Projects & Portfolio
-
--   End-to-end AI projects
--   Documentation & deployment
-
-------------------------------------------------------------------------
-
-## 📌 Progress Tracker
-
--   [ ] Git & GitHub\
--   [ ] Python\
--   [ ] Math\
--   [ ] Machine Learning\
--   [ ] Deep Learning\
--   [ ] Projects
-
-------------------------------------------------------------------------
-
-> 💡 Consistency beats intensity. Keep pushing to GitHub.
+## 🛠 Projects
+- [Beginner Projects](projects/beginner-projects.md)
+- [Advanced Projects](projects/advanced-projects.md)

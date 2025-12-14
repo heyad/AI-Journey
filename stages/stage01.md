@@ -71,6 +71,17 @@ or docstring.
 """
 ```
 
+#### 2. Variables and Data Types 
+| Data Type | Example                        | Description        |
+| --------- | ------------------------------ | ------------------ |
+| int       | `age = 25`                     | Integer numbers    |
+| float     | `height = 1.75`                | Decimal numbers    |
+| str       | `name = "Alice"`               | Text               |
+| bool      | `is_student = True`            | True or False      |
+| list      | `fruits = ["apple", "banana"]` | Ordered collection |
+| dict      | `person = {"name": "Alice"}`   | Key-value pairs    |
+
+
 -   Functions, modules
 -   File handling
 

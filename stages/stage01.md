@@ -186,7 +186,25 @@ file = open("example.txt", "w")
 file.write("Hello, Python!\n")
 file.close()
 ```
+**Reading a file**
+```python
+file = open("example.txt", "r")
+content = file.read()  # Reads the whole file
+print(content)
+file.close()
+```
 
+**Reading/ Writing `with` 
+```python
+with open("example.txt", "a") as file:
+    file.write("Appending a new line.\n")
+
+# Reading with 'with'
+with open("example.txt", "r") as file:
+    for line in file:
+        print(line.strip())  # Remove extra newline characters
+
+```
 
 ### Git & GitHub Basics
 

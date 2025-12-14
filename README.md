@@ -1,12 +1,15 @@
 # 🤖 AI Learning Journey
 
 Welcome to your **AI Learning Journey** 🚀\
-This repository is a **living roadmap** designed to guide you from
-beginner to AI practitioner. Your progress in this journey depends largely on you: 
+This repository is a living roadmap designed to guide you from beginner to AI practitioner. Your progress along this journey depends largely on:
 
--   on the time, 
--   effort, and 
--   **consistency** you are willing to invest. 
+-   the time you invest,
+
+-   the effort you put in, and
+
+-   the consistency you maintain over time.
+
+Stay patient, stay curious, and keep showing up—small, regular steps lead to meaningful progress.
 
 Learning AI just like learning anything else; it requires curiosity, patience and a lot of it, and the courage to experiment and fail.
 

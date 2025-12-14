@@ -171,10 +171,7 @@ Python makes it easy to work with files. You can **read**, **write**, and **appe
 
 ##### Opening a File
 
-```python 
-open(filename, mode)``` to open a file:
-
-Common modes:
+Use `open(filename, mode)` to open a file. Common modes:
 
 | Mode | Description                     |
 |------|---------------------------------|
@@ -183,13 +180,13 @@ Common modes:
 | `'a'` | Append (adds to the end)       |
 | `'r+'` | Read and write                 |
 
-
 ```python
 # Open a file for writing
 file = open("example.txt", "w")
 file.write("Hello, Python!\n")
 file.close()
 ```
+
 
 ### Git & GitHub Basics
 

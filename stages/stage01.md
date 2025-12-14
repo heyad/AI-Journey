@@ -106,6 +106,46 @@ age = 25
 print(f"{name} is {age} years old.")  # Using f-strings
 ```
 
+#### 5. Lists 
+```python 
+fruits = ["apple", "banana", "cherry"]
+print(fruits[0])       # Access first element -> apple
+fruits.append("orange")  # Add an element
+fruits.remove("banana")  # Remove an element
+
+```
+#### 6. Dictionaries 
+```python 
+person = {"name": "Alice", "age": 25}
+print(person["name"])  # Output: Alice
+person["age"] = 26     # Update value
+
+```
+#### 7. Conditional Statements 
+```python 
+age = 18
+
+if age >= 18:
+    print("Adult")
+else:
+    print("Minor")
+```
+#### 8. Loops 
+```python 
+
+# For loop
+for i in range(5):
+    print(i)  # Output: 0 1 2 3 4
+
+# While loop
+count = 0
+while count < 5:
+    print(count)
+    count += 1
+```
+
+
+
 -   Functions, modules
 -   File handling
 

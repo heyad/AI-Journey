@@ -163,7 +163,7 @@ import math
 print(math.sqrt(16))  # Output: 4.0
 ```
 
-#### 10. Files Handling 
+#### 11. Files Handling 
 
 Python makes it easy to work with files. You can **read**, **write**, and **append** files using built-in functions.
 
@@ -179,11 +179,13 @@ Use `open(filename, mode)` to open a file. Common modes:
 | `'r+'` | Read and write                 |
 
 ```python
-# Open a file for writing
+# Open a file for writing - Check Data/helloworld.py
 file = open("example.txt", "w")
 file.write("Hello, Python!\n")
 file.close()
+
 ```
+ 
 **Reading a file**
 ```python
 file = open("example.txt", "r")

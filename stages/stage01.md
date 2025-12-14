@@ -58,6 +58,26 @@ For beginners, this removes one of the biggest barriers to learning: environment
 
 
 -   Python basics
+
+
+# Introduction to Python Syntax
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. This guide provides a gentle overview of Python syntax for beginners.
+
+---
+
+## 1. Comments
+Comments are notes in your code that Python ignores. They help explain what your code does.
+
+```python
+# This is a single-line comment
+
+"""
+This is a 
+multi-line comment
+or docstring.
+"""
+
 -   Functions, modules
 -   File handling
 

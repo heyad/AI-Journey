@@ -57,6 +57,20 @@ For beginners, this removes one of the biggest barriers to learning: environment
 ### Python Foundations
 
 -   Python basics (comments, data types, etc...)
+
+
+#### 1. Comments: Comments are notes in your code that Python ignores. They help explain what your code does.
+
+```python
+# This is a single-line comment
+
+"""
+This is a 
+multi-line comment
+or docstring.
+"""
+```
+
 -   Functions, modules
 -   File handling
 

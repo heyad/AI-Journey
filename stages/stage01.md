@@ -13,10 +13,31 @@ The first thing you need when starting to code in Python is an IDE (Integrated D
 1. Visual Studio Code (VS Code): Visual Studio Code is a lightweight, free, and extremely popular code editor that becomes a powerful Python IDE through extensions. Download from the official website: https://code.visualstudio.com
 
 
-2. Jupyter Notebook: Best for Learning & Experimentation. Jupyter Notebook is an interactive environment where you write and run Python code in small blocks (cells), alongside explanations, equations, and visualizations. Install via Anaconda, which includes Python, Jupyter, and many useful libraries https://www.anaconda.com  Or install directly using pip:
+2. Jupyter Notebook: Best for Learning & Experimentation. Jupyter Notebook is an interactive environment where you write and run Python code in small blocks (cells), alongside explanations, equations, and visualizations. Install via Anaconda, which includes Python, Jupyter, and many useful libraries https://www.anaconda.com  Or install directly using pip: `pip install notebook`
 
-`pip install notebook`
+3. Google Colab, one of the most common IDE for beginners: 
 
+✅ No setup or installation needed
+
+✅ Runs entirely in the browser
+
+✅ Free access to GPUs and TPUs (with limits)
+
+✅ Ideal for Python, data science, and AI
+
+✅ Easy to share notebooks with instructors or classmates
+
+For beginners, this removes one of the biggest barriers to learning: environment setup.
+
+**How to Get Started**
+
+Go to: https://colab.research.google.com
+
+Sign in with a Google account
+
+Click New Notebook
+
+Start writing Python code immediately
 
 ### Python Foundations
 

@@ -170,6 +170,8 @@ print(math.sqrt(16))  # Output: 4.0
 Python makes it easy to work with files. You can **read**, **write**, and **append** files using built-in functions.
 
 ##### Opening a File
+
+```python 
 Use `open(filename, mode)` to open a file. Common modes:
 
 | Mode | Description                     |
@@ -184,7 +186,7 @@ Use `open(filename, mode)` to open a file. Common modes:
 file = open("example.txt", "w")
 file.write("Hello, Python!\n")
 file.close()
-
+```
 
 ### Git & GitHub Basics
 

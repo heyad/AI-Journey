@@ -45,6 +45,9 @@ For beginners, this removes one of the biggest barriers to learning: environment
 
 -   Start writing Python code immediately
 
+### 🎥 Google Colab - Quick Video
+[![Introduction to Artificial Intelligence](https://img.youtube.com/vi/inN8seMm7UI/0.jpg)](https://youtu.be/inN8seMm7UI)
+
 ### Python Foundations
 
 

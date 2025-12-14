@@ -147,7 +147,43 @@ while count < 5:
 
 
 -   Functions, modules
+
+#### 1. Functions 
+
+```python 
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Alice"))  # Output: Hello, Alice!
+```
+
+#### 2. Importing Modules 
+
+```python 
+import math
+
+print(math.sqrt(16))  # Output: 4.0
+```
+
 -   File handling
+
+Python makes it easy to work with files. You can **read**, **write**, and **append** files using built-in functions.
+
+##### Opening a File
+Use `open(filename, mode)` to open a file. Common modes:
+
+| Mode | Description                     |
+|------|---------------------------------|
+| `'r'` | Read (default)                  |
+| `'w'` | Write (creates or overwrites)   |
+| `'a'` | Append (adds to the end)       |
+| `'r+'` | Read and write                 |
+
+```python
+# Open a file for writing
+file = open("example.txt", "w")
+file.write("Hello, Python!\n")
+file.close()
 
 
 ### Git & GitHub Basics

@@ -56,18 +56,7 @@ For beginners, this removes one of the biggest barriers to learning: environment
 
 ### Python Foundations
 
-
--   Python basics
-
-
-# Introduction to Python Syntax
-
-Python is a high-level, interpreted programming language known for its simplicity and readability. This guide provides a gentle overview of Python syntax for beginners.
-
----
-
-## 1. Comments
-Comments are notes in your code that Python ignores. They help explain what your code does.
+-   Python Comments: Comments are notes in your code that Python ignores. They help explain what your code does.
 
 ```python
 # This is a single-line comment
@@ -77,6 +66,19 @@ This is a
 multi-line comment
 or docstring.
 """
+-   Python basics (data types)
+
+
+| Data Type | Example                        | Description        |
+| --------- | ------------------------------ | ------------------ |
+| int       | `age = 25`                     | Integer numbers    |
+| float     | `height = 1.75`                | Decimal numbers    |
+| str       | `name = "Alice"`               | Text               |
+| bool      | `is_student = True`            | True or False      |
+| list      | `fruits = ["apple", "banana"]` | Ordered collection |
+| dict      | `person = {"name": "Alice"}`   | Key-value pairs    |
+
+
 
 -   Functions, modules
 -   File handling

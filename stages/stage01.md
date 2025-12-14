@@ -94,6 +94,16 @@ or docstring.
 | Modulus        | `%`    | `10 % 3`  | 1      |
 | Exponent       | `**`   | `2 ** 3`  | 8      |
 
+#### 4. Strings 
+python 
+greeting = "Hello"
+name = 'Alice'
+message = greeting + " " + name
+print(message)  # Output: Hello Alice
+
+# String formatting
+age = 25
+print(f"{name} is {age} years old.")  # Using f-strings
 
 
 -   Functions, modules

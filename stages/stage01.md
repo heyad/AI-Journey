@@ -14,6 +14,12 @@ The first thing you need when starting to code in Python is an IDE (Integrated D
 
 Visual Studio Code is a lightweight, free, and extremely popular code editor that becomes a powerful Python IDE through extensions. Download from the official website: https://code.visualstudio.com
 
+##### 🎥 Quick Intro to Visual Studio Code
+[![Learn Visual Studio Code in 7min](https://img.youtube.com/vi/B-s71n0dHUk/0.jpg)](https://youtu.be/B-s71n0dHUk)
+
+**Focus:** Get familiar with VS Code basics — interface, workspace, and core features.  
+**Duration:** ~7 minutes
+
 
 #### Jupyter Notebook
 
@@ -45,7 +51,7 @@ For beginners, this removes one of the biggest barriers to learning: environment
 
 -   Start writing Python code immediately
 
-### 🎥 Google Colab - Quick Video
+##### 🎥 Google Colab - Quick Video
 [![Introduction to Artificial Intelligence](https://img.youtube.com/vi/inN8seMm7UI/0.jpg)](https://youtu.be/inN8seMm7UI)
 
 ### Python Foundations

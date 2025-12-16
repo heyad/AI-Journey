@@ -9,7 +9,7 @@ This repository is a living roadmap designed to guide you from beginner to AI pr
 
 -   the consistency you maintain over time.
 
-Stay patient, stay curious, and keep showing up—small, regular steps lead to meaningful progress.
+Stay patient, stay curious, and **remember** small, regular steps lead to meaningful progress and significant change.
 
 Learning AI just like learning anything else; it requires curiosity, patience and a lot of it, and the courage to experiment and fail.
 
@@ -24,17 +24,17 @@ There will be moments of confusion and frustration,  this is normal and expected
 
 ## 🧭 How to Use This Repository
 
-1.  Follow the roadmap in order\
-2.  Learn → Practice → Push your work to GitHub\
-3.  Update this repo as you progress\
+1.  Follow the roadmap in order
+2.  Learn → Code → Push your work to GitHub
+3.  Update this repo as you progress
 4.  Don't list your skills, you better **Show** it
 
 ------------------------------------------------------------------------
 
 ## 🛠 Prerequisites
 
--   Basic computer skills\
--   Willingness to learn and experiment\
+-   Basic computer skills
+-   **Willingness to learn and experiment**
 -   GitHub account (mandatory)
 
 ------------------------------------------------------------------------

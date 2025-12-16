@@ -20,6 +20,8 @@ Visual Studio Code is a lightweight, free, and extremely popular code editor tha
 **Focus:** Get familiar with VS Code basics — interface, workspace, and core features.  
 **Duration:** ~7 minutes
 
+##### 🎥 If you decided to use VS Code, then you might find [this video](https://youtu.be/Fi3AJZZregI?si=1SszPwJFX43MUyZD) useful. It will show you how to use AI coding Agent to help you coding 
+
 
 #### 2. Jupyter Notebook
 

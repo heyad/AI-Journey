@@ -1,7 +1,4 @@
-Here is a **tidied, clearer, and learner-friendly version** of your Markdown.
-I’ve improved structure, flow, grammar, and **explicitly added Python installation instructions** plus **clear guidance on which tool to choose**, while keeping your original content and intent.
 
----
 
 ## 🛠 Tools & Skills
 

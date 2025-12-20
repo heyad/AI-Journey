@@ -8,7 +8,7 @@ Getting started with AI might seem challenging, but our journey begins with two 
 
 **GitHub** is your collaborative workspace and professional portfolio. It allows you to save, version-control, and share your code, work on complex projects with others, and showcase your machine learning models to potential employers.
 
----
+
 
 ## 🐍 Step 1: Install Python (Required)
 
@@ -32,7 +32,8 @@ If Python is installed correctly, you’ll see the version number.
 
 > 💡 **Note:** If you use **Anaconda** or **Google Colab**, Python is already included.
 
----
+
+
 
 ## 💻 Step 2: Choose an IDE (Code Editor)
 
@@ -40,7 +41,8 @@ An **IDE (Integrated Development Environment)** helps you write, run, debug, and
 
 Below are three beginner-friendly and commonly used options.
 
----
+
+
 
 ### 1. Visual Studio Code (VS Code) ⭐ Recommended for Projects
 
@@ -65,7 +67,8 @@ Visual Studio Code is a lightweight, free, and extremely popular editor that bec
 If you choose VS Code, this video shows how to use an AI coding agent to assist you:
 👉 [https://youtu.be/Fi3AJZZregI?si=1SszPwJFX43MUyZD](https://youtu.be/Fi3AJZZregI?si=1SszPwJFX43MUyZD)
 
----
+
+
 
 ### 2. Jupyter Notebook ⭐ Best for Learning & Experimentation
 
@@ -87,7 +90,8 @@ Jupyter Notebook is an interactive environment where you write and run Python co
 * Data analysis and visualization
 * AI and machine learning experiments
 
----
+
+
 
 ### 3. Google Colab ⭐ Best for Zero Setup
 
@@ -124,20 +128,15 @@ Google Colab is one of the most popular tools for beginners.
 | Building projects & scripts   | **VS Code**                   |
 | Preparing for real-world jobs | **VS Code**                   |
 
----
+
+
 
 ## ⭐ Final Recommendation
 
 * **Start with Google Colab or Jupyter Notebook** to focus on learning Python
 * **Move to VS Code** as you begin building larger projects and portfolios
 
----
 
-If you want, I can also:
-
-* Simplify this further for **absolute beginners**
-* Turn it into a **one-page student handout**
-* Add **GitHub setup instructions** next
 
 
 ### Python Foundations

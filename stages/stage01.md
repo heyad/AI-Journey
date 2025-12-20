@@ -295,7 +295,253 @@ with open("example.txt", "r") as file:
 
 -   Repositories, commits, push/pull
 -   GitHub workflow
--   Good Starting Point is [Github Docs](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+-   Main commands are outlined below with brief discription 
+
+
+
+---
+
+## Think of Git Like a Save System for Your Project
+
+* Your project is a **folder**
+* Git helps you **track changes**, **save versions**, and **share them**
+* GitHub is the **online place** where those saves are stored
+
+---
+
+## Most Common Git Commands (Explained Simply)
+
+### `git init`
+
+👉 **Start using Git in a folder**
+
+* Turns your current folder into a Git project
+* You only do this **once per project**
+
+🧠 *“Hey Git, please watch this folder.”*
+
+---
+
+### `git status`
+
+👉 **Check what’s going on**
+
+* Shows:
+
+  * Which files were changed
+  * Which files are ready to be saved
+* Safe to run anytime
+
+🧠 *“What has changed?”*
+
+---
+
+### `git add`
+
+👉 **Tell Git which changes you want to save**
+
+* Prepares files for saving (called *staging*)
+* Examples:
+
+```bash
+git add file.txt     # add one file
+git add .            # add everything
+```
+
+🧠 *“I want to save these changes.”*
+
+---
+
+### `git commit`
+
+👉 **Save your changes with a message**
+
+* Takes a snapshot of your project
+* The message explains what you changed
+
+```bash
+git commit -m "Fix typo in README"
+```
+
+🧠 *“Save this version and label it.”*
+
+---
+
+### `git log`
+
+👉 **See the history of saves**
+
+* Shows all previous commits
+* Each commit is a saved version
+
+🧠 *“Show me past versions.”*
+
+---
+
+### `git branch`
+
+👉 **See or manage versions of your project**
+
+* A branch is a separate line of work
+* `main` is the default branch
+
+```bash
+git branch           # list branches
+git branch new-one   # create a branch
+```
+
+🧠 *“I want to work separately.”*
+
+---
+
+### `git checkout`
+
+👉 **Switch between branches**
+
+```bash
+git checkout main
+git checkout new-one
+```
+
+🧠 *“Move me to a different version.”*
+
+*(Newer Git also uses `git switch` for this)*
+
+---
+
+### `git clone`
+
+👉 **Copy a project from GitHub to your computer**
+
+```bash
+git clone https://github.com/user/repo.git
+```
+
+🧠 *“Download this project.”*
+
+---
+
+### `git pull`
+
+👉 **Get the latest changes from GitHub**
+
+* Updates your local files
+* Use this before starting work
+
+```bash
+git pull
+```
+
+🧠 *“Get new updates.”*
+
+---
+
+### `git push`
+
+👉 **Send your saved changes to GitHub**
+
+```bash
+git push
+```
+
+🧠 *“Upload my changes.”*
+
+---
+
+### `git remote`
+
+👉 **Manage connections to GitHub**
+
+* Shows where your project is connected
+
+```bash
+git remote -v
+```
+
+🧠 *“Where is this project stored online?”*
+
+---
+
+## The Basic Git Workflow (Most Important Part)
+
+```text
+Edit files
+↓
+git status   (check changes)
+↓
+git add .    (select changes)
+↓
+git commit   (save changes)
+↓
+git push     (upload to GitHub)
+```
+
+---
+
+## Simple Analogy (Very Beginner-Friendly)
+
+| Real Life        | Git Command  |
+| ---------------- | ------------ |
+| Check changes    | `git status` |
+| Select files     | `git add`    |
+| Save work        | `git commit` |
+| Upload work      | `git push`   |
+| Download updates | `git pull`   |
+
+---
+
+Here are **useful, beginner-friendly resources to learn Git**, starting from very easy and moving toward more hands-on practice:
+
+---
+
+## 🌱 Useful Resources
+
+### 1. **GitHub Skills**
+
+* Interactive, step-by-step courses
+* Learn by doing inside real GitHub repos
+  🔗 [https://skills.github.com](https://skills.github.com)
+
+---
+
+### 2. **Git Handbook (GitHub Guides)**
+
+* Clear explanations with examples
+* Great for understanding core concepts
+  🔗 [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
+
+---
+
+### 3. **Atlassian Git Tutorials**
+
+* Very beginner-friendly explanations
+* Excellent diagrams and plain language
+  🔗 [https://www.atlassian.com/git/tutorials](https://www.atlassian.com/git/tutorials)
+
+---
+
+## 📖 Reference & Deeper Learning
+
+### 4. **Pro Git Book (Free)**
+
+* Official Git book
+* Free and comprehensive (read chapters 1–3 for beginners)
+  🔗 [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+
+---
+
+### 5. **Git Documentation**
+
+* Official reference
+* Best when you already know the basics
+  🔗 [https://git-scm.com/docs](https://git-scm.com/docs)
+
+---
+
+
+
+
+
 
 
 

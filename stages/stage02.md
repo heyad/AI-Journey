@@ -51,26 +51,24 @@ A solid math foundation helps you understand how models work, why they behave th
 
 ### 📺 Popular Youtube Channels & Other Useful Links
 
-Here’s a **Markdown-formatted** list of **top YouTube channels** that teach **machine learning, deep learning, AI, and related content** (from highly recommended and popular sources): ([Reddit][1])
 
 ### 🎓 Top YouTube Channels for Machine Learning & Deep Learning
 
-* **[DeepLearning.AI](https://www.youtube.com/c/deeplearningai)** – Official channel from Andrew Ng’s AI education organisation, with high-quality ML/DL lessons & course videos. ([YouTube][2]). Highly recommend it. 
+* **[DeepLearning.AI](https://www.youtube.com/c/deeplearningai)** – Official channel from Andrew Ng’s AI education organisation, with high-quality ML/DL lessons & course videos.. Highly recommend it. 
 
 
 
-* **[Data School](https://www.youtube.com/user/dataschool)** – Practical machine learning with Python & scikit-learn. ([Kaggle][5])
+* **[Data School](https://www.youtube.com/user/dataschool)** – Practical machine learning with Python & scikit-learn. 
 
-* **[Kaggle](https://www.youtube.com/c/Kaggle)** – Tutorials, competitions, and real-world data science/ML walkthroughs. ([Kaggle][5])
+* **[Kaggle](https://www.youtube.com/c/Kaggle)** – Tutorials, competitions, and real-world data science/ML walkthroughs.
 
-* **[Two Minute Papers](https://www.youtube.com/user/keeroyz)** – Short, engaging summaries of cutting-edge AI/ML research and breakthroughs. ([DigitalOcean][6])
+* **[Two Minute Papers](https://www.youtube.com/user/keeroyz)** – Short, engaging summaries of cutting-edge AI/ML research and breakthroughs. 
 
 
-* **[Siraj Raval](https://www.youtube.com/c/SirajRaval)** – Energetic and approachable AI/ML tutorials and project builds. ([guvi.in][8])
+* **[Siraj Raval](https://www.youtube.com/c/SirajRaval)** – Energetic and approachable AI/ML tutorials and project builds. 
+* **[Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)** – Machine learning, deep learning, and AI tutorials with real-world examples. 
 
-* **[Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)** – Machine learning, deep learning, and AI tutorials with real-world examples. ([YouTube][9])
-
-* **[Applied AI Course](https://www.youtube.com/c/AppliedAICourse)** – Structured and practical AI/ML course-style videos. ([guvi.in][8])
+* **[Applied AI Course](https://www.youtube.com/c/AppliedAICourse)** – Structured and practical AI/ML course-style videos.
 
 ---
 

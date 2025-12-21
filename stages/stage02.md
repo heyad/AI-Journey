@@ -49,10 +49,9 @@ A solid math foundation helps you understand how models work, why they behave th
 ---
 
 
-### 📺 Popular Youtube Channels & Other Useful Links
+### 📺 Popular Youtube Channels & Other Useful Links (ML, DL and LLM)
 
 
-### 🎓 Top YouTube Channels for Machine Learning & Deep Learning
 
 * **[DeepLearning.AI](https://www.youtube.com/c/deeplearningai)** – Official channel from Andrew Ng’s AI education organisation, with high-quality ML/DL lessons & course videos.. Highly recommend it. 
 

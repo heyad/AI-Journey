@@ -1,5 +1,7 @@
 
-### 📺 Popular Resources 
+
+
+### 📺 Other Popular Resources 
 
 
 
@@ -8,6 +10,7 @@
     1.   [Machine Learning Specialisation](https://www.coursera.org/specializations/machine-learning-introduction)
     2.  [Deep Learning Specialisation](https://www.coursera.org/specializations/machine-learning-introduction)
 
+* **[Learning AI in 2025](https://medium.com/%40xceed/learning-ai-in-2025-start-with-these-25-game-changing-youtube-channels-e5a32c36facf)** - A curated compilation of 25 must-subscribe YouTube channels offering high-quality, accessible AI and machine learning education—from introductory concepts to advanced research and practical coding tutorials—perfect for learners in 2025
 
 * **[Data School](https://www.youtube.com/user/dataschool)** – Practical machine learning with Python & scikit-learn. 
 

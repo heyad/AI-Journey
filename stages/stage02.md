@@ -43,33 +43,9 @@ A solid math foundation helps you understand how models work, why they behave th
   📌 https://mml-book.github.io/
 
 
-- **Deep Learning Book** (Goodfellow, Bengio, Courville) – foundational math and theory for deep learning.  
-  📌 https://www.deeplearningbook.org/
-
----
-
-
-### 📺 Popular Youtube Channels & Other Useful Links (ML, DL and LLM)
 
 
 
-* **[DeepLearning.AI](https://www.youtube.com/c/deeplearningai)** – Official channel from Andrew Ng’s AI education organisation, with high-quality ML/DL lessons & course videos.. Highly recommend it. 
-
-
-
-* **[Data School](https://www.youtube.com/user/dataschool)** – Practical machine learning with Python & scikit-learn. 
-
-* **[Kaggle](https://www.youtube.com/c/Kaggle)** – Tutorials, competitions, and real-world data science/ML walkthroughs.
-
-* **[Two Minute Papers](https://www.youtube.com/user/keeroyz)** – Short, engaging summaries of cutting-edge AI/ML research and breakthroughs. 
-
-
-* **[Siraj Raval](https://www.youtube.com/c/SirajRaval)** – Energetic and approachable AI/ML tutorials and project builds. 
-* **[Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)** – Machine learning, deep learning, and AI tutorials with real-world examples. 
-
-* **[Applied AI Course](https://www.youtube.com/c/AppliedAICourse)** – Structured and practical AI/ML course-style videos.
-
----
 
 
 

@@ -20,6 +20,11 @@ There will be moments of confusion and frustration,  this is normal and expected
 > 🎯 Goal: Build strong fundamentals, real projects, and a public AI
 > portfolio.
 
+> 📌 **Note**
+>  
+> This repository is a work in progress and will be **continuously updated** with improvements, new content, and refinements over time.  
+> Please check back regularly for the latest updates.
+
 ------------------------------------------------------------------------
 
 ## 🧭 How to Use This Repository

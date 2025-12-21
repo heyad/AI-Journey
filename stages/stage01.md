@@ -293,6 +293,9 @@ with open("example.txt", "r") as file:
 
 ### Git & GitHub Basics
 
+Download Git from https://git-scm.com
+, run the installer using the default options, and verify the installation by opening a terminal and typing git --version.
+
 -   Repositories, commits, push/pull
 -   GitHub workflow
 -   Main commands are outlined below with brief discription 

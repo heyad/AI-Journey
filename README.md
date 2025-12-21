@@ -53,7 +53,7 @@ A structured learning path to go from beginner to applied AI practitioner.
 ## 📚 Learning Stages
 
 1. [Stage 1 – Tools & Basics](stages/stage01.md)
-2. [Stage 2 – Python for AI](stages/stage02.md)
+2. [Stage 2 – Python & Math for AI](stages/stage02.md)
 3. [Stage 3 – Machine Learning](stages/stage-3-ml.md)
 4. [Stage 4 – Deep Learning](stages/stage-4-deep-learning.md)
 5. [Stage 5 – Deployment & MLOps](stages/stage-5-deployment.md)

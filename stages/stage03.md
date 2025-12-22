@@ -9,6 +9,7 @@ Learning machine learning can feel challenging at first, but that’s completely
 
 * **[Python Data Science HandBook](https://jakevdp.github.io/PythonDataScienceHandbook/)** - Covers wide range of topics in Python as well asdifferent Machine Learning Algoirhtms. The book has alos a github repository that contains all the code and examples. You can git it from this **[Github Link](https://github.com/jakevdp/PythonDataScienceHandbook?tab=readme-ov-file)**.
 
+* **[Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)** Covers important topics from regression to ensemble methods (online book)
 * **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)** - Gentle Intro to NN and DL
 
 * **[Deep Learning, Foundation and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4)**  by 

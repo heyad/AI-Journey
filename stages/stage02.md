@@ -45,7 +45,9 @@ A solid math foundation helps you understand how models work, why they behave th
 - **[Think Bayes 2e](https://greenteapress.com/wp/think-bayes/)** - an introduction to Bayesian statistics using computational methods.
 
 
+### 🎥 Youtube Channels (Math)
 
+- **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** Wide range of topics on Math (youtube videos)
 
 
 

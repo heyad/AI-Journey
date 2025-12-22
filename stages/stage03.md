@@ -1,3 +1,7 @@
+## Machine LEarning 
+
+Learning machine learning can feel challenging at first, but that’s completely normal. The resources below are just a starting point, meant to introduce you to key ideas and help you get comfortable with the landscape. You don’t need to follow them in a strict order or progress sequentially; feel free to explore, jump around, and learn at your own pace. What matters most is to read, learn, and then code and practice. 
+
 
 ### 📚 ML Books 
 

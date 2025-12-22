@@ -1,5 +1,14 @@
 
+### 📚 ML Books 
 
+* The Hundred-Page Machine Learning Book by Andriy Burkov — concise practical overview of key ML concepts. **[Available Here](https://freecomputerbooks.com/The-Hundred-Page-Machine-Learning-Book.html?utm_source=chatgpt.com)**
+
+* **[Python Data Science HandBook](https://jakevdp.github.io/PythonDataScienceHandbook/)** - Covers wide range of topics in Python as well asdifferent Machine Learning Algoirhtms. The book has alos a github repository that contains all the code and examples. You can git it from this **[Github Link](https://github.com/jakevdp/PythonDataScienceHandbook?tab=readme-ov-file)**.
+
+* **[Deep Learning, Foundation and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4)**  by 
+Christopher M. Bishop , Hugh Bishop (Excellent Book)
+
+* **Springer**'s free ML & data books list with dozens of technical titles in ML, statistics, and related fields, all legally free from Springer’s open access program. [Click Here](https://ifors.org/developing_countries/index.php/Springer_has_released_65_Machine_Learning_and_Data_Books_for_Free?utm_source=chatgpt.com) for the complete list 
 
 ### 📺 Other Popular Resources 
 

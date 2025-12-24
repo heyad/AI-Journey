@@ -546,7 +546,7 @@ Here are **useful, beginner-friendly resources to learn Git**, starting from ver
 
 ### 📝 Step 5: Monitor your progress
 
-One important part of your learning journey is tracking your progress. A simple and effective way to do this is by recording the number of hours you spend on different activities such as reading, writing, or coding. Keeping track of this information helps you understand how your time is used and monitor your learning trajectory over time. There are several ways to do this, and you are free to choose the method that works best for you. However, here is your first task: [Progress Tracker](tasks/Task01.md).
+One important part of your learning journey is tracking your progress. A simple and effective way to do this is by recording the number of hours you spend on different activities such as reading, writing, or coding. Keeping track of this information helps you understand how your time is used and monitor your learning trajectory over time. There are several ways to do this, and you are free to choose the method that works best for you. However, here is your first task: [Progress Tracker](Tasks/Task01.md).
 
 
 

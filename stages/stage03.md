@@ -66,8 +66,6 @@ Learning machine learning can feel challenging at first, but that’s completely
 
 * **[Kaggle](https://www.youtube.com/c/Kaggle)** – Tutorials, competitions, and real-world data science/ML walkthroughs.
 
-* **[Two Minute Papers](https://www.youtube.com/user/keeroyz)** – Short, engaging summaries of cutting-edge AI/ML research and breakthroughs. 
-
 
 * **[Siraj Raval](https://www.youtube.com/c/SirajRaval)** – Energetic and approachable AI/ML tutorials and project builds. 
 * **[Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)** – Machine learning, deep learning, and AI tutorials with real-world examples. 

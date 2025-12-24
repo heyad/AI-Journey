@@ -47,7 +47,18 @@ A solid math foundation helps you understand how models work, why they behave th
 
 ### 🎥 Youtube Channels (Math)
 
-- **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** Wide range of topics on Math (youtube videos)
+#### **StatQuest (YouTube)**
+
+* **Type:** Video explanations
+* **Link:** [https://www.youtube.com/@statquest](https://www.youtube.com/@statquest)
+* **Why it’s good:**
+
+  * Extremely clear intuition-first explanations
+  * Great for linear regression, decision trees, neural nets
+* **Best for:** Anyone confused by math-heavy explanations
+
+
+#### **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** Wide range of topics on Math (youtube videos)**. Another good resource for math explanation
 
 
 

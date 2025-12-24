@@ -42,6 +42,8 @@ A solid math foundation helps you understand how models work, why they behave th
 - **Mathematics for Machine Learning** – linear algebra, calculus, and probability explained clearly.  
   📌 https://mml-book.github.io/
 
+- **[Introduction to Statistical Learning](https://www.statlearning.com/)** - Excellent book with coverage of key concepts in ML and Stats and python coding
+
 - **[Think Bayes 2e](https://greenteapress.com/wp/think-bayes/)** - an introduction to Bayesian statistics using computational methods.
 
 

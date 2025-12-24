@@ -11,9 +11,8 @@ In this task, you will learn the basics of Git and GitHub by:
 * Using Git to save your progress
 * Publishing your own version of the project on GitHub
 
-You do **not** need prior Git experience.
 
----
+You will also gain hands-on experience with Python programming, including importing and working with external modules such as [streamlit](https://streamlit.io/) reading from and writing to files, and creating basic data visualizations using Python.---
 
 ### Project to Use
 

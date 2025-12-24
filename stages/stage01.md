@@ -10,17 +10,17 @@ Getting started with AI might seem challenging, but our journey begins with two 
 
 
 
-## 🐍 Step 1: Install Python (Required)
+### 🐍 Step 1: Install Python (Required)
 
 Before using any coding tool, you need Python installed on your computer.
 
-### Install Python
+#### Install Python
 
 * Download Python from the official site: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 * Install the **latest Python 3 version**
 * ✅ **Important:** During installation, check **“Add Python to PATH”**
 
-### Verify Installation
+#### Verify Installation
 
 Open a terminal or command prompt and run:
 
@@ -35,7 +35,7 @@ If Python is installed correctly, you’ll see the version number.
 
 
 
-## 💻 Step 2: Choose an IDE (Code Editor)
+### 💻 Step 2: Choose an IDE (Code Editor)
 
 An **IDE (Integrated Development Environment)** helps you write, run, debug, and organize your code more efficiently than a simple text editor.
 
@@ -118,7 +118,7 @@ Google Colab is one of the most popular tools for beginners.
 
 ---
 
-## ✅ Which Tool Should You Use?
+### ✅ Which Tool Should You Use?
 
 | Your Goal                     | Recommended Tool              |
 | ----------------------------- | ----------------------------- |
@@ -131,7 +131,7 @@ Google Colab is one of the most popular tools for beginners.
 
 
 
-## ⭐ Final Recommendation
+### ⭐ Final Thought
 
 * **Start with Google Colab or Jupyter Notebook** to focus on learning Python
 * **Move to VS Code** as you begin building larger projects and portfolios
@@ -139,7 +139,7 @@ Google Colab is one of the most popular tools for beginners.
 
 
 
-### Python Foundations
+### ⌨️ Step 3: Start with Python Foundations
 
 
 
@@ -291,7 +291,7 @@ with open("example.txt", "r") as file:
 
 ```
 
-### Git & GitHub Basics
+### Step 4: Git & GitHub Basics
 
 Download Git from https://git-scm.com
 , run the installer using the default options, and verify the installation by opening a terminal and typing git --version.
@@ -304,7 +304,7 @@ Download Git from https://git-scm.com
 
 ---
 
-## Think of Git Like a Save System for Your Project
+#### Think of Git Like a Save System for Your Project
 
 * Your project is a **folder**
 * Git helps you **track changes**, **save versions**, and **share them**
@@ -312,7 +312,7 @@ Download Git from https://git-scm.com
 
 ---
 
-## Most Common Git Commands (Explained Simply)
+#### Most Common Git Commands (Explained Simply)
 
 ### `git init`
 
@@ -465,7 +465,7 @@ git remote -v
 
 ---
 
-## The Basic Git Workflow (Most Important Part)
+### The Basic Git Workflow (Most Important Part)
 
 ```text
 Edit files
@@ -481,7 +481,7 @@ git push     (upload to GitHub)
 
 ---
 
-## Simple Analogy (Very Beginner-Friendly)
+### Summary - Basic Commands
 
 | Real Life        | Git Command  |
 | ---------------- | ------------ |

@@ -17,8 +17,11 @@ This repository serves as a roadmap, not a shortcut. It shows you where to go an
 
 There will be moments of confusion and frustration,  this is normal and expected. What matters is showing up consistently, writing code, breaking things, fixing them, and pushing your work to GitHub.
 
-> 🎯 Goal: Build strong fundamentals, real projects, and a public AI
-> portfolio.
+> **⚠️ Disclaimer**
+> 
+> This roadmap and the listed resource topics are provided as general guidance only and are not exhaustive. The sequence presented is not compulsory, and learners are free to choose their own learning path and progression. This roadmap is based on personal learning experience, and learners are encouraged to conduct their own research and explore additional resources.
+
+
 
 > 📌 **Note**
 >  

@@ -56,7 +56,8 @@ A structured learning path to go from beginner to applied AI practitioner.
 2. [Stage 2 – Python & Math for AI](stages/stage02.md)
 3. [Stage 3 – Machine Learning](stages/stage03.md)
 4. [Stage 4 – Deep Learning](stages/stage04.md)
-5. [Stage 5 – Deployment & MLOps](stages/stage-5-deployment.md)
+5. [Stage 5- Transformers & Modern Architectures](stages/stage05.md)
+6. [Stage 6- LLMs, Agents & AI Systems](stages/stage06.md)
 
 ## 🛠 Projects
 - [Beginner Projects](projects/beginner-projects.md)

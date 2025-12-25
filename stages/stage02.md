@@ -6,6 +6,14 @@ There are plenty of excellent learning resources available across the web, YouTu
 
 That said, the list below is **not exhaustive**, but it brings together **high-quality, free, and beginner-friendly resources** that can help you build a strong foundation and confidently start your journey into **Python, mathematics, and artificial intelligence**.
 
+
+### Learning Outcomes 
+
+1. Python essentials (NumPy, Pandas, Matplotlib)
+2. Linear algebra (highlevel)
+3. Probability & statistics for ML
+4. Gradients and optimization
+
 ---
 ## 🐍 Python Programming (Beginner → Intermediate)
 

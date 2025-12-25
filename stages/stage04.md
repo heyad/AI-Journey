@@ -1,5 +1,17 @@
 
----
+
+## Deep Learning 
+
+Neural Networks are the key building blocks of deep learnign-based methods. 
+
+### Learning Outcomes 
+
+1. Neural networks
+2. Backpropagation
+3. CNNs & RNNs (conceptual + light implementation)
+4. Transfer Learning and Common Architectures (VGG16, ResNet, etc...)
+4. Frameworks: PyTorch or TensorFlow
+5. Why deep learning changed everything
 
 
 ### 🌳 Starting Point (more math, theory + practice)

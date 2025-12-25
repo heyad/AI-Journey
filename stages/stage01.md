@@ -9,6 +9,15 @@ Getting started with AI might seem challenging, but our journey begins with two 
 **GitHub** is your collaborative workspace and professional portfolio. It allows you to save, version-control, and share your code, work on complex projects with others, and showcase your machine learning models to potential employers.
 
 
+### Learning Outcomes 
+
+1. What AI is 
+2. AI tools (ChatGPT, Other GenAI tools, notebooks, VS Code, and Google Colab)
+3. Data basics & workflows
+4. How AI systems are built at a high level
+
+
+
 
 ### 🐍 Step 1: Install Python (Required)
 

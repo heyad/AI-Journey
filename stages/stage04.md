@@ -46,6 +46,15 @@ Neural Networks are the key building blocks of deep learnign-based methods.
 
 #### 1. **Deep Learning Book (Ian Goodfellow et al.)**
 
+* **Type:** Excellent textbook
+* **Link:** [Deep Learning
+Foundations and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4)
+* **Why it’s good:**
+
+  * Excellent resource for DL 
+  * Good coverge of theory 
+
+
 * **Type:** Free online textbook
 * **Link:** [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
 * **Why it’s good:**

@@ -71,6 +71,7 @@ A solid math foundation helps you understand how models work, why they behave th
 #### **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** Wide range of topics on Math (youtube videos)**. Another good resource for math explanation
 
 
+#### **[MIT Course on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)** Comprehensive course on Linear Algebra (keep it as a reference)
 
 
 
